@@ -7,10 +7,13 @@
 - 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
 - 객체지향적인 코드를 작성한다.
 
+`미션이름-after 레포지토리는 수료 후 작성해본 코드입니다.`
+
 |Project|Repository|Pull Request|
 |-|---|---|
 |자동차 경주 게임|[java-racingcar-step1](https://github.com/brorae/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/294)
 ||[java-racingcar-step2](https://github.com/brorae/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/350)|
+||[java-racingcar-after](https://github.com/brorae/java-racingcar/tree/after)
 |로또|[java-lotto-step1](https://github.com/brorae/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/375)
 ||[java-lotto-step2](https://github.com/brorae/java-lotto/tree/step2)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/473)|
 |블랙잭|[java-blackjack-step1](https://github.com/brorae/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/264)
